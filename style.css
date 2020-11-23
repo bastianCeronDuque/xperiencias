@@ -1,0 +1,32 @@
+*{
+    margin: 0 auto;
+}
+body{
+    width: auto;
+    background-color: #700750;
+}
+.logo img{
+    height: 70px;
+    width: 300px;
+    margin-left: 15px;
+}
+footer{
+    background-color: #700750;
+    height: 500px;
+    width: auto;
+}
+.carousel-item {
+    min-height: 450px;
+    background-size: cover;
+}
+.justify-content-end{
+    margin-bottom: 150px;
+}
+.user{
+    height: 25px;
+    width: 25px;
+}
+
+.footerimage{
+    margin-top: 510px;
+}
